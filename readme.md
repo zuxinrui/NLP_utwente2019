@@ -1,2 +1,3 @@
 2019 UT NLP course
-movie genre classifier
+Movie genre classifier using LSTM/GRU model. 
+Multi-classifier
